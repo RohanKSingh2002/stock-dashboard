@@ -88,6 +88,6 @@ This project is open-source and available under the **MIT License**.
 For any questions or suggestions, feel free to reach out!
 
 👨‍💻 **Rohan Kumar Singh**\
-📧rohank.[singh2002@gmail.com](mailto\:rohank.singh2002@gmail.com)\
+📧 [rohank.singh2002@gmail.com](mailto\:rohank.singh2002@gmail.com)\
 🐙 [GitHub](https://github.com/RohanKSingh2002)
 
