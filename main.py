@@ -218,4 +218,4 @@ for symbol in stock_symbols:
 
 # Sidebar information section
 st.sidebar.subheader('About')
-st.sidebar.info('This dashboard provides stock data and various indicators.')
+st.sidebar.info('This dashboard provides stock data with various indicators.')
