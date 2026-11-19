@@ -53,9 +53,8 @@ python -m uvicorn app:app --port 8000
 
 ## Design
 
-The design follows the `modern-web-design` and `motion-framer` skills from
-[claudedesignskills](https://github.com/freshtechbro/claudedesignskills). Tokens live at the
-top of `frontend/src/styles.css`:
+The interface is built on a small set of design tokens defined at the top of
+`frontend/src/styles.css`:
 
 - Colour is chosen in OKLCH. Green and red only mean direction; the periwinkle accent marks
   selection and focus. Body text is at least 15:1 contrast, secondary text at least 7:1.
